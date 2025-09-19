@@ -227,3 +227,10 @@ body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "
   html { scroll-behavior: auto; }
   .card-media img{ transition: none; }
 }
+
+.timeline { direction: ltr; }
+
+
+footer .nav-link { opacity: .9; }
+footer .nav-link:hover,
+footer .nav-link:focus { opacity: 1; text-decoration: underline; }
